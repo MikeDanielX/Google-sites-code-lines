@@ -8,7 +8,8 @@ Google Sites doesn't support Tables or Markdown, this script allows you to write
 2. Select `<> Embed`
 3. Change to the `Embed Code` tab
 4. Paste the code below from the example 
-5. Add your code in the `// PASTE YOUR CODE HERE` section
+5. Add the language you are going to use after the `language-` in the `<pre class="language-..."><code>`
+6. Add your code in the `// PASTE YOUR CODE HERE` section
 6. save
 
 ## Code snippets with Color Highlighting
@@ -33,7 +34,7 @@ If you wish to use code snippets with color highlighting in Google sites:
   }
 </style>
 
-<pre class="language-js"><code>
+<pre class="language-..."><code>
 
 // PASTE YOUR CODE HERE
 
