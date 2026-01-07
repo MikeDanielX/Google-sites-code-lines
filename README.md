@@ -1,4 +1,4 @@
-# Google Sites Markdown
+# Google Sites Code Lines
 
 Google Sites doesn't support Tables or Markdown, this script allows you to write Markdown inside a HTML snippet within Google Sites.
 
@@ -15,13 +15,17 @@ Google Sites doesn't support Tables or Markdown, this script allows you to write
 If you wish to use code snippets inside your markdown, you'll need to escape the backticks:
 
 ```typescript
-\`\`\`typescript
-function getBestHero(Kamen_Rider: string): boolean {
-  return true
-}
+<script src="https://cdn.jsdelivr.net/gh/MikeDanielX/Google-sites-code-lines@main/index.js"></script>
 
-const isKamenRiderTheBestHero = getBestHero('Kamen rider')
+<script>
+markdown`
 \`\`\`
+
+[YOUR CODE]
+
+\`\`\`
+`
+</script> 
 ```
 
 ## Example
