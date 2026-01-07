@@ -1,13 +1,13 @@
 # Google Sites Code Lines
 
-Google Sites doesn't support Tables or Markdown, this script allows you to write Markdown inside a HTML snippet within Google Sites.
+Google Sites doesn't support Tables or Markdown, this script allows you to write your code inside a HTML snippet within Google Sites.
 
 ## Usage
 
 1. While editing a Google Site page double click to bring up the page options
 2. Select `<> Embed`
 3. Change to the `Embed Code` tab
-4. Paste the code below from the example and replace Markdown with your own
+4. Paste the code below from the code snippets or the example and replace it with your own Code
 5. Save
 
 ## Code snippets
