@@ -27,7 +27,7 @@ const isKamenRiderTheBestHero = getBestHero('Kamen rider')
 ## Example
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/tutts/google-sites-markdown/index.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/MikeDanielX/Google-sites-code-lines@main/index.js"></script>
 
 <script>
 markdown`
